@@ -1,16 +1,19 @@
 ## Hi there 👋
+# Hi 👋, I'm lixiu0816
 
-<!--
-**lixiu0816/lixiu0816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate developer from around the world
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lixiu0816&label=Profile views&color=0e75b6&style=flat" alt="lixiu0816" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **中南民族大学在读本科生**
+
+- 🌱 I'm currently learning **新思路geek后端**
+
+- 👯 I'm looking to collaborate on **open source project**
+
+- 🤝 I'm looking for help with **后端内容**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/lixiu0816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="lixiu0816" height="30" width="40" /></a>
+
