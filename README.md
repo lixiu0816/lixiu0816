@@ -3,7 +3,7 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <![我的头像](https://github.com/lixiu0816/Task/blob/main/images/avatar.jpg)> </p>
+![我的头像](https://github.com/lixiu0816/Task/blob/main/images/avatar.jpg)
 
 - 🔭 I'm currently working on **中南民族大学在读本科生**
 
