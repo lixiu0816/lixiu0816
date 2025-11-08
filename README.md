@@ -3,7 +3,7 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lixiu0816&label=Profile views&color=0e75b6&style=flat" alt="lixiu0816" /> </p>
+<p align="left"> <![我的头像](https://github.com/lixiu0816/Task/blob/main/images/avatar.jpg)> </p>
 
 - 🔭 I'm currently working on **中南民族大学在读本科生**
 
